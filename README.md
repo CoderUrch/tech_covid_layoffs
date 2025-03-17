@@ -19,6 +19,7 @@ India experienced the most layoffs, followed by the Netherlands, Sweden, and Bra
 The United States was excluded from the visualization as its layoffs were significantly higher, accounting for over 50% of global layoffs during this period.
 
 # 🛠️ Technologies Used
-SQL – Data extraction and transformation
-Power BI / Tableau – Data visualization and interactive dashboards
 Excel – Data preprocessing and cleanup
+SQL – Data extraction and transformation
+Power BI – Data visualization and interactive dashboards
+
