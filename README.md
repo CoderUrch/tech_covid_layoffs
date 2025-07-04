@@ -22,4 +22,3 @@ The United States was excluded from the visualization as its layoffs were signif
 Excel – Data preprocessing and cleanup
 SQL – Data extraction and transformation
 Power BI – Data visualization and interactive dashboards
-Power Query
